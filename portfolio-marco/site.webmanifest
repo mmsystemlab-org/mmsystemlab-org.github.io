@@ -1,0 +1,18 @@
+{
+  "name": "Marco Antônio | Engenheiro de Software Sênior",
+  "short_name": "Marco Antônio",
+  "description": "Engenharia de software, Full Stack e Front-end. Conheça minha trajetória e o BarberMap.",
+  "lang": "pt-BR",
+  "start_url": "/portfolio-marco/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/portfolio-marco/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

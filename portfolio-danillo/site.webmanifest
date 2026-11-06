@@ -1,0 +1,18 @@
+{
+  "name": "Danillo Franklin Leite Lopes | QA",
+  "short_name": "Danillo QA",
+  "description": "Portfólio de Danillo Franklin, Analista de Qualidade de Software e automação de testes.",
+  "lang": "pt-BR",
+  "start_url": "/portfolio-danillo/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/portfolio-danillo/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
